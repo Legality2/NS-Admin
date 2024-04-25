@@ -17,7 +17,7 @@ const musicRoute = require('./api/routes/music/musicRoutes');
 //event controller
 const eventCtrl = require("./api/controllers/events/eventCtrl");
 //alpa vantage key S7JDVTFR1AM335UC
-mongoose.connect('mongodb://192.168.68.81:27017/NSD', {useNewUrlParser: true});
+mongoose.connect('mongodb://127.0.0.1:27017/NSD', {useNewUrlParser: true});
 const db = mongoose.connection;
 db.on('error', console.error.bind(console, 'connection error:'));
 db.once('open', function() {

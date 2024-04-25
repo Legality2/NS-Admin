@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\ys-enhance",
+    "\\client\\ys-enhance\\my-app",
+    "\\client\\ys-enhance\\my-app\\public",
+    "\\client\\ys-enhance\\my-app\\src",
+    "\\client\\ys-enhance\\my-app\\src\\app",
+    "\\server"
+  ],
+  "SelectedNode": "\\client\\ys-enhance\\my-app\\src\\app\\layout.js",
+  "PreviewInSolutionExplorer": false
+}
